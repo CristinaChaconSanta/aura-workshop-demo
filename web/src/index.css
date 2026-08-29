@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-moss: #1a2614;
+  --color-sage: #8ba046;
+  --color-ink: #f3f6ee;
+  --color-accent: #9ccf4f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  background: #142016;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+::selection {
+  background: rgba(139, 160, 70, 0.4);
+  color: #fff;
+}
+
+.aura-scene {
+  background:
+    radial-gradient(920px 560px at 16% 0%, rgba(63, 122, 36, 0.32) 0%, transparent 52%),
+    radial-gradient(900px 700px at 88% 86%, #0e2a10 0%, transparent 48%),
+    radial-gradient(700px 500px at 50% 38%, #142016 0%, transparent 55%),
+    linear-gradient(165deg, #121a12 0%, #0a0f0a 72%);
+}
+
+.landing-hero {
+  background-color: #0a0f0a;
+}
+
+.aura-scene::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.09;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mask-image: linear-gradient(to bottom, black 0%, black 48%, transparent 82%);
+  -webkit-mask-image: linear-gradient(to bottom, black 0%, black 48%, transparent 82%);
+}
+
+.mirror {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(22px) saturate(1.25);
+  -webkit-backdrop-filter: blur(22px) saturate(1.25);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow:
+    0 28px 70px rgba(0, 0, 0, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.24);
+}
+
+.lead-card {
+  background: rgba(28, 38, 22, 0.88);
+  backdrop-filter: blur(18px) saturate(1.05);
+  -webkit-backdrop-filter: blur(18px) saturate(1.05);
+  border: 1px solid rgba(63, 122, 36, 0.28);
+  box-shadow:
+    0 24px 60px rgba(0, 0, 0, 0.38),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.agent-panel {
+  background: rgba(10, 15, 10, 0.96);
+  backdrop-filter: blur(22px) saturate(1.1);
+  -webkit-backdrop-filter: blur(22px) saturate(1.1);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.36);
+}
+
+.mirror-deep {
+  background: rgba(12, 18, 10, 0.5);
+  backdrop-filter: blur(28px) saturate(1.2);
+  -webkit-backdrop-filter: blur(28px) saturate(1.2);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow:
+    0 40px 100px rgba(0, 0, 0, 0.32),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+
+.pill-solid {
+  background: #fff;
+  color: #14200f;
+}
+
+.pill-ghost {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}

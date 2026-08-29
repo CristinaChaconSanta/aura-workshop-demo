@@ -1,0 +1,570 @@
+[
+  {
+    "id": "beta-i",
+    "empresa": "Beta-i",
+    "contacto": "Bruno Thiago",
+    "cargo": "Growth Marketing Manager",
+    "email": "bruno.thiago@beta-i.com",
+    "pais": "Brazil",
+    "url": "https://beta-i.com",
+    "score": 76,
+    "prioridad": "Alta",
+    "producto": "Aura Transform",
+    "tag": "primero",
+    "ficha": {
+      "resumen": "Beta-i es una consultora de innovación que ayuda a empresas globales a diseñar y escalar estrategias de innovación colaborativa. Vende principalmente a empresas en Brasil y Europa.",
+      "sector": "consultoría de gestión",
+      "ciudad_pais": "Lisbon, Portugal",
+      "modelo_negocio": "B2B, proyectos de consultoría y servicios de innovación",
+      "propuesta_valor": "Acelera la transformación de empresas mediante la innovación colaborativa, ayudando a resolver desafíos complejos y a impulsar el crecimiento empresarial.",
+      "madurez_digital": {
+        "nivel": "Alta",
+        "razon": "La empresa implementa herramientas modernas como HubSpot para gestión de clientes, posee un sitio web operativo y utiliza metodologías digitales para sus servicios."
+      },
+      "tiene_whatsapp": false,
+      "tiene_blog": true,
+      "tiene_ecommerce": true,
+      "tecnologias_detectadas": [
+        "WordPress",
+        "WooCommerce",
+        "HubSpot",
+        "Google Tag Manager",
+        "Google Analytics"
+      ],
+      "senales_oportunidad": [
+        "El sitio web tiene un blog que puede beneficiar de automatización en la distribución de contenido y generación de leads.",
+        "Se observa un uso activo de formularios de contacto y solicitación de servicios, lo que puede ser optimizado mediante automatizaciones."
+      ],
+      "brechas_competitivas": [
+        "No tienen un portal de cliente donde los usuarios puedan gestionar su información y proyectos."
+      ],
+      "angulos_personalizacion": [
+        {
+          "angulo": "La empresa menciona su impacto en sectores como salud y sostenibilidad, pero no detalla métricas específicas de éxito.",
+          "evidencia": "Sección 'Our Impact Together' en el sitio."
+        },
+        {
+          "angulo": "Han expandido su presencia a múltiples ciudades globales, aunque su oferta de servicios parece centralizada en Lisboa.",
+          "evidencia": "Detalles en la sección 'Meet Us' del sitio."
+        },
+        {
+          "angulo": "Promueven una estrategia de innovación colaborativa, pero adolecen de una newsletter que automatice la distribución de sus proyectos.",
+          "evidencia": "La opción de suscribirse a la newsletter en el footer del sitio."
+        },
+        {
+          "angulo": "Utilizan múltiples plataformas para el análisis de datos, pero no hay información sobre la integración de estas herramientas.",
+          "evidencia": "Listado de tecnologías en el sitio."
+        },
+        {
+          "angulo": "La empresa menciona una metodología única de innovación, pero no especifica cómo eso se traduce en resultados concretos.",
+          "evidencia": "Sección sobre 'A unique methodology' en el sitio."
+        }
+      ],
+      "servicios_aura_sugeridos": [
+        {
+          "servicio": "AUTOMATIZACIÓN DEL BLOG: optimización del flujo de trabajo para creación y distribución de contenido del blog",
+          "justificacion": "Para maximizar el alcance del contenido y facilitar la generación de leads."
+        },
+        {
+          "servicio": "SISTEMA DE ATENCIÓN AL CLIENTE AUTOMATIZADO: implementación de un chatbot en su sitio para atención inmediata",
+          "justificacion": "Mejoraría la eficiencia en la atención al cliente y permitiría respuestas rápidas a consultas comunes."
+        }
+      ],
+      "propuestas_creativas": [
+        "GESTIÓN DE PROYECTOS INNOVADORES: un sistema que ayude a las empresas a trackear el progreso de sus proyectos de innovación en tiempo real.",
+        "ANÁLISIS DE IMPACTO AUTOMATIZADO: herramienta que recopila datos de sus proyectos y genera reportes automatizados sobre sus resultados.",
+        "OPTIMIZADOR DE ECOSISTEMAS: un sistema para gestionar y analizar las colaboraciones con otros partners en sus proyectos.",
+        "PLATAFORMA DE IDEACIÓN COLABORATIVA: un espacio donde los clientes pueden co-crear y aportar ideas con Beta-i, facilitando la innovación conjunta.",
+        "DASHBOARD DE IMPACTO SOSTENIBLE: una interfaz que permite visualizar el impacto de sus proyectos en relación con objetivos de sostenibilidad.",
+        "FORMULARIO DE REQUERIMIENTOS AUTOMATIZADO: sistema que permite a los clientes enviar requerimientos de manera más eficiente desde su sitio."
+      ],
+      "insights": [
+        "61 empleados en una consultora que promueve innovación pero carecen de un sistema automatizado para la distribución de sus proyectos sugiere que dependen de métodos tradicionales y podrían beneficiarse significativamente de la digitalización.",
+        "A pesar de utilizar herramientas avanzadas como HubSpot, la falta de automatizaciones visibles sugiere oportunidades no aprovechadas en el marketing y la atención al cliente."
+      ],
+      "temperatura_mercado": "sin evidencia",
+      "evidencia_temperatura": "Sin señal en los últimos 6 meses",
+      "costo_cambio_estimado": "medio",
+      "evidencia_costo_cambio": "La integración de nuevas tecnologías como chatbots y automatización de procesos podría requerir una inversión moderada.",
+      "estructura_decision": "El contacto tiene como cargo el Gerente de Marketing de Crecimiento, lo que sugiere que toma decisiones dentro del departamento. Es probable que el equipo de dirección participe, aunque no se especifica quién más.",
+      "horas_recuperables_semana": {
+        "min": 6,
+        "max": 12,
+        "evidencia": "Los procesos observados que sustentan el rango son la gestión manual de consultas y la falta de automatización en la distribución de contenido."
+      },
+      "fit_aura": "alto",
+      "razon_fit": "La empresa está en el nicho de la consultoría y gestión de innovación, donde la automatización puede liberar tiempo y mejorar procesos significativamente."
+    },
+    "estimacion": {
+      "horas_min": 6.0,
+      "horas_max": 12.0,
+      "costo_hora": [
+        10,
+        18
+      ],
+      "valor_anual_min": 2900,
+      "valor_anual_max": 10400,
+      "precio_min": 300,
+      "precio_max": 2100,
+      "evidencia": "Los procesos observados que sustentan el rango son la gestión manual de consultas y la falta de automatización en la distribución de contenido.",
+      "supuestos": "costo hora USD 10-18 (Brazil), 48 semanas/año, captura 10-20% del valor anual"
+    }
+  },
+  {
+    "id": "dive",
+    "empresa": "DIVE",
+    "contacto": "Pablo Collao",
+    "cargo": "Growth Marketing Manager",
+    "email": "pcollao@dive.cl",
+    "pais": "Chile",
+    "url": "https://dive.cl",
+    "score": 70,
+    "prioridad": "Alta",
+    "producto": "Aura Transform",
+    "tag": "analisis",
+    "ficha": {
+      "resumen": "DIVE es una agencia de marketing enfocada en resultados, que ofrece servicios de estrategia, creatividad y análisis de datos. Vende a empresas de diversas industrias en Chile y más de 20 países.",
+      "sector": "agencia de marketing",
+      "ciudad_pais": "Providencia, Chile",
+      "modelo_negocio": "B2B, proyectos y consulting",
+      "propuesta_valor": "Generamos valor a través de pensamiento estratégico, análisis de datos y creatividad enfocada en resultados.",
+      "madurez_digital": {
+        "nivel": "Media",
+        "razon": "Utilizan tecnologías como Webflow y Mailchimp, aunque podrían optimizar la automatización en sus procesos de marketing y comunicación."
+      },
+      "tiene_whatsapp": false,
+      "tiene_blog": true,
+      "tiene_ecommerce": false,
+      "tecnologias_detectadas": [
+        "Webflow",
+        "Mailchimp",
+        "Google Tag Manager"
+      ],
+      "senales_oportunidad": [
+        "No se observó un sistema de agendamiento online para consultas, lo cual podría optimizar la atención al cliente.",
+        "El sitio web menciona la generación de reportes de resultados, pero no se observa un sistema automatizado para la entrega de estos."
+      ],
+      "brechas_competitivas": [
+        "Falta de un portal de clientes que permita a los usuarios acceder a sus proyectos y resultados en tiempo real.",
+        "No se menciona un chatbot o una función de atención al cliente inmediata en el sitio."
+      ],
+      "angulos_personalizacion": [
+        {
+          "angulo": "Mencionan operaciones en más de 20 países, pero su presencia digital está limitada principalmente a Chile.",
+          "evidencia": "Texto en la sección de Clientes."
+        },
+        {
+          "angulo": "Tienen una amplia experiencia en campañas, pero no han actualizado su sitio con un portafolio de trabajos recientes.",
+          "evidencia": "Sección de Trabajos con referencias a proyectos anteriores."
+        },
+        {
+          "angulo": "Han trabajado con marcas reconocidas como MAC Cosmetics, pero no muestran un estudio de caso detallado en el sitio.",
+          "evidencia": "Referencias en la sección de Clientes."
+        },
+        {
+          "angulo": "Destacan su enfoque en análisis de datos, pero no hay herramientas visibles para que los clientes accedan a métricas personalizadas.",
+          "evidencia": "Menciones en el contenido de 'Qué Hacemos'."
+        }
+      ],
+      "servicios_aura_sugeridos": [
+        {
+          "servicio": "AUTOMATIZACIÓN DE REPORTES DE RESULTADOS: entrega reportes automáticos con análisis de KPIs basados en datos observados.",
+          "justificacion": "Para aprovechar su foco en análisis de datos y mejorar la comunicación de resultados a los clientes."
+        },
+        {
+          "servicio": "CHATBOT DE ATENCIÓN EN TIEMPO REAL: implementación de un chatbot que responda consultas frecuentes y agilice la atención al cliente.",
+          "justificacion": "Esto ayudaría a optimizar los procesos de comunicación y mejorar la experiencia del cliente."
+        }
+      ],
+      "propuestas_creativas": [
+        "GESTIÓN DE CLIENTES: CRM automatizado que integra el seguimiento de clientes y resultados de campañas en un solo lugar.",
+        "REPORTES Y DASHBOARDS: sistema que genera dashboards interactivos para el seguimiento de campañas y resultados, adaptados a las necesidades del cliente.",
+        "CASO DE ÉXITO AUTOMATIZADO: sistema que recibe información de campañas y genera presentaciones de resultados para los clientes automáticamente.",
+        "PLATAFORMA DE CAPACITACIÓN ONLINE: sistema que organiza y ofrece capacitaciones en marketing digital a clientes, con seguimiento de progreso.",
+        "OPTIMIZACIÓN DE CAMPAÑAS AUTOMATIZADAS: herramienta que ajusta automáticamente estrategias de publicidad basadas en el rendimiento de campañas en tiempo real.",
+        "ANÁLISIS DE TENDENCIAS AUTOMATIZADO: sistema que recopila y analiza tendencias de marketing para proporcionar insights y recomendaciones a los clientes."
+      ],
+      "insights": [
+        "45 empleados en una agencia de marketing con fuerte enfoque en análisis de datos, pero sin herramientas de atención al cliente automatizadas, sugiere que la operación podría ser más eficiente.",
+        "Más de 10 años de experiencia indican una fuerte trayectoria en el mercado, pero falta de actualizaciones visibles puede afectar su percepción frente a competidores más innovadores."
+      ],
+      "temperatura_mercado": "out-of-market",
+      "evidencia_temperatura": "Sin señal en los últimos 6 meses",
+      "costo_cambio_estimado": "medio",
+      "evidencia_costo_cambio": "No se observó un proveedor visible que indique alta dependencia, pero tienen un equipo estructurado.",
+      "estructura_decision": "El contacto parece estar involucrado en decisiones de marketing, participando también otros miembros del equipo, sin un control total del dueño evidenciado.",
+      "horas_recuperables_semana": {
+        "min": 5,
+        "max": 10,
+        "evidencia": "La falta de automatización en la generación de reportes y consultas manuales sugieren un esfuerzo considerable en tareas repetitivas."
+      },
+      "fit_aura": "alto",
+      "razon_fit": "DIVE, siendo una agencia de marketing efectiva, tiene procesos de negocio que se benefician significativamente de la automatización, alineándose con los pilares de Aura."
+    },
+    "estimacion": {
+      "horas_min": 5.0,
+      "horas_max": 10.0,
+      "costo_hora": [
+        12,
+        20
+      ],
+      "valor_anual_min": 2900,
+      "valor_anual_max": 9600,
+      "precio_min": 300,
+      "precio_max": 1900,
+      "evidencia": "La falta de automatización en la generación de reportes y consultas manuales sugieren un esfuerzo considerable en tareas repetitivas.",
+      "supuestos": "costo hora USD 12-20 (Chile), 48 semanas/año, captura 10-20% del valor anual"
+    }
+  },
+  {
+    "id": "outloud",
+    "empresa": "OutLoud Marketing",
+    "contacto": "Jose Guizar",
+    "cargo": "Marketing Director",
+    "email": "jguizar@outloudmarketing.com",
+    "pais": "Mexico",
+    "url": "https://outloudmarketing.com",
+    "score": 69,
+    "prioridad": "Media",
+    "producto": "Aura Consult",
+    "tag": null,
+    "ficha": {
+      "resumen": "OutLoud Marketing es una agencia de staffing para eventos que se especializa en brindar soluciones personalizadas de personal para eventos en Houston, Texas, y en todo Estados Unidos.",
+      "sector": "marketing & advertising",
+      "ciudad_pais": "Houston, Texas, USA",
+      "modelo_negocio": "B2B, venta directa de servicios de staffing para eventos.",
+      "propuesta_valor": "Transformamos eventos ordinarios en experiencias extraordinarias ofreciendo personal capacitado y soluciones innovadoras para cada ocasión.",
+      "madurez_digital": {
+        "nivel": "Media",
+        "razon": "Uso de tecnologías como HubSpot y WordPress, pero sin fuerte presencia en redes sociales o ecommerce visible."
+      },
+      "tiene_whatsapp": false,
+      "tiene_blog": true,
+      "tiene_ecommerce": false,
+      "tecnologias_detectadas": [
+        "WordPress",
+        "Elementor",
+        "HubSpot",
+        "Google Tag Manager",
+        "Google Analytics"
+      ],
+      "senales_oportunidad": [
+        "El uso de un formulario de contacto manual sugiere ineficiencia en la captación de leads directos.",
+        "La dependencia en un único número telefónico para consultas puede limitar la generación de clientes potenciales."
+      ],
+      "brechas_competitivas": [
+        "Falta de un portal de clientes o Clientes VIP para seguimiento de eventos y contrataciones.",
+        "Ausencia de un sistema de agendamiento online para facilitar la consulta sobre disponibilidad de personal."
+      ],
+      "angulos_personalizacion": [
+        {
+          "angulo": "La mención de haber ejecutado eventos en todo Estados Unidos sugiere apertura a operaciones internacionales.",
+          "evidencia": "Contenido del sitio que habla sobre eventos en todo el país."
+        },
+        {
+          "angulo": "El liderazgo de Jose Guizar, con experiencia en más de 50 campañas, presenta una trayectoria sólida para abordar nuevas integraciones.",
+          "evidencia": "Sección 'Meet the Heart of Outloud' en el sitio."
+        },
+        {
+          "angulo": "Buscan sobre todo el empoderamiento del personal para crear experiencias únicas, lo que indica una filosofía de trabajo colaborativa.",
+          "evidencia": "Declaraciones en la misión y visión de su sitio."
+        }
+      ],
+      "servicios_aura_sugeridos": [
+        {
+          "servicio": "AUTOMATIZACIÓN DE CAPTACIÓN DE LEADS: un sistema que optimiza el proceso de contacto y seguimiento de propuestas mediante formularios inteligentes.",
+          "justificacion": "Con un alto volumen de clientes potenciales, mejorar el flujo de información permitirá a OutLoud concentrarse en la creación de eventos."
+        },
+        {
+          "servicio": "CRM PERSONALIZADO PARA EVENTOS: gestión de todos los eventos y personal en un solo sistema, adaptado a las necesidades específicas de OutLoud.",
+          "justificacion": "Facilitará la gestión de proyectos y una mejor comunicación interna y con los clientes."
+        }
+      ],
+      "propuestas_creativas": [
+        "GESTIÓN DE CLIENTES: CRM para gestionar el flujo de personal y logística de eventos, optimizando la colaboración con el cliente.",
+        "REPORTES Y DASHBOARDS: sistema que permite realizar seguimiento a KPIs y métricas de eventos, mejorando la toma de decisiones.",
+        "PLATAFORMA DE AGENDAMIENTO PARA EVENTOS: sistema online que permite consultar y reservar personal para eventos en tiempo real.",
+        "AUTOMATIZACIÓN DE INFORMES POST-EVENTO: un sistema que recopila datos y generara informes automáticos para clientes y para mejoras internas.",
+        "BASE DE DATOS DE MARCAS AMBASADORAS: plataforma para gestionar las interacciones con los más de 50,000 brand ambassadors y sus disponibilidades.",
+        "SOLUCIONES DE SEGUIMIENTO PARA CATÁLOGO DE PERSONAL: gestión centralizada de las capacidades y experiencia de cada miembro del equipo."
+      ],
+      "insights": [
+        "Un equipo de 13 empleados con un enfoque en eventos de gran escala muestra oportunidades de optimización y necesidad de un equipo de soporte mayor para eventos grandes.",
+        "La combinación de soluciones manuales con uso de tecnología refleja una madurez digital media que puede ser escalada en la industria del marketing actual.",
+        "No contar con plataformas de ecommerce o chat en vivo, a pesar de ofrecer servicios, sugiere que están en un segmento del mercado donde se requiere modernizar y atraer a un público más joven."
+      ],
+      "temperatura_mercado": "out-of-market",
+      "evidencia_temperatura": "Sin señal en los últimos 6 meses",
+      "costo_cambio_estimado": "medio",
+      "evidencia_costo_cambio": "No hay señas concluyentes sobre proveedores existentes en sus servicios.",
+      "estructura_decision": "Jose Guizar, como Director de Marketing, probablemente toma decisiones clave. Que implica la participación de otros gerentes comerciales.",
+      "horas_recuperables_semana": {
+        "min": 5,
+        "max": 15,
+        "evidencia": "La carga de trabajo visible en comunicación con clientes a través de llamadas y correos, sumado a la recolección manual de datos de eventos."
+      },
+      "fit_aura": "alto",
+      "razon_fit": "La agencia se enfoca en conseguir excelentes resultados en eventos, lo que alinea bien con los servicios automatizados que pueden devolver tiempo y permitir crecimiento."
+    },
+    "estimacion": {
+      "horas_min": 5.0,
+      "horas_max": 15.0,
+      "costo_hora": [
+        9,
+        16
+      ],
+      "valor_anual_min": 2200,
+      "valor_anual_max": 11500,
+      "precio_min": 200,
+      "precio_max": 2300,
+      "evidencia": "La carga de trabajo visible en comunicación con clientes a través de llamadas y correos, sumado a la recolección manual de datos de eventos.",
+      "supuestos": "costo hora USD 9-16 (Mexico), 48 semanas/año, captura 10-20% del valor anual"
+    }
+  },
+  {
+    "id": "clemsa",
+    "empresa": "Clemsa",
+    "contacto": "Cynthia Ponce Urra",
+    "cargo": "Head of Marketing",
+    "email": "cponce@clemsa.cl",
+    "pais": "Chile",
+    "url": "https://clemsa.cl",
+    "score": 67,
+    "prioridad": "Media",
+    "producto": "Aura Consult",
+    "tag": null,
+    "ficha": {
+      "resumen": "Clemsa se dedica a la venta y arriendo de maquinaria pesada, ofreciendo una amplia gama de equipos y repuestos en Chile. Atienden a empresas del sector construcción, agrícola y maquinaria pesada en San Bernardo, Chile.",
+      "sector": "maquinaria pesada",
+      "ciudad_pais": "San Bernardo, Chile",
+      "modelo_negocio": "B2B y B2C, venta directa y alquiler de maquinaria",
+      "propuesta_valor": "Ofrecemos equipos de construcción modernos y eficientes, garantizando calidad, variedad y un servicio confiable en la venta y arriendo de maquinaria.",
+      "madurez_digital": {
+        "nivel": "Alta",
+        "razon": "El sitio está diseñado para transacciones en línea y utiliza múltiples tecnologías como WooCommerce para e-commerce y Google Analytics para monitoreo.",
+        "tecnologias_detectadas": [
+          "WordPress",
+          "Elementor",
+          "WooCommerce",
+          "Google Tag Manager",
+          "Google Analytics",
+          "Facebook Pixel"
+        ]
+      },
+      "tiene_whatsapp": true,
+      "tiene_blog": false,
+      "tiene_ecommerce": true,
+      "tecnologias_detectadas": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce",
+        "Google Tag Manager",
+        "Google Analytics",
+        "Facebook Pixel"
+      ],
+      "senales_oportunidad": [
+        "El contenido de contacto incluye formularios, sugiriendo que hay un proceso manual para la generación de leads y cotizaciones.",
+        "Varias categorías de productos visibles en el sitio muestran una estructura que podría beneficiarse de filtros más automáticos.",
+        "Un ineficiente proceso de atención al cliente se puede deducir de la falta de atención en tiempo real y dependencia de formularios para consultas."
+      ],
+      "brechas_competitivas": [
+        "Falta de un sistema de agendamiento online para mostrar disponibilidad de maquinaria.",
+        "No se observa un portal de cliente que permita a los clientes gestionar sus alquileres y consultas de manera autónoma.",
+        "El sitio no parece tener contenido activo en un blog que podría mejorar su posicionamiento y atraer tráfico."
+      ],
+      "angulos_personalizacion": [
+        {
+          "angulo": "La promesa de 'mantenimiento de confianza' sugiere que los clientes valoran la seguridad y fiabilidad, lo cual es ideal para resaltar en el contacto.",
+          "evidencia": "Frase en la sección de servicio técnico que enfatiza la minimización de paradas y optimización de proyectos."
+        },
+        {
+          "angulo": "Publican sobre la variedad de maquinaria pero no tienen un acceso rápido a un catálogo completo en línea.",
+          "evidencia": "El sitio menciona un amplio catálogo de maquinarias, sin embargo, la navegación es segmentada por categorías."
+        },
+        {
+          "angulo": "Mencionan 'opciones flexibles de pago', un punto clave que podría trabajarse más al momento de personalizar ofertas.",
+          "evidencia": "Texto en la sección de información sobre opciones de pago."
+        },
+        {
+          "angulo": "El énfasis en ser un 'Partner ideal' para construcción sugiere oportunidades para abordar a las constructoras que necesitan confianza en sus proveedores.",
+          "evidencia": "Encabezado en la sección '¿Qué hace a Clemsa tu Partner ideal?'."
+        },
+        {
+          "angulo": "El enfoque en asesoramiento personalizado puede ser útil para ofrecer servicios más específicos en la comunicación inicial.",
+          "evidencia": "Texto en la sección dedicada a asesoría para elegir el equipo adecuado."
+        }
+      ],
+      "servicios_aura_sugeridos": [
+        {
+          "servicio": "AGENTE DE COTIZACIONES AUTOMATIZADAS: chatbot que califica leads y envía cotizaciones de maquinaria automáticamente.",
+          "justificacion": "Reducir el proceso manual de cotizaciones y mejorar la atención al cliente."
+        },
+        {
+          "servicio": "PORTAL DE CLIENTES PERSONALIZADO: sistema para gestión de alquileres y cotizaciones que incrementa la autonomía del cliente.",
+          "justificacion": "Facilita la gestión independiente de los contratos por parte de los clientes."
+        },
+        {
+          "servicio": "DASHBOARD DE SEGUIMIENTO DE ALQUILERES: herramienta que permite a los clientes visualizar y gestionar sus alquileres en tiempo real.",
+          "justificacion": "Mejora la interacción de los clientes con Clemsa y optimiza la retención."
+        },
+        {
+          "servicio": "AUTOMATIZACIÓN DE SEGUIMIENTO POST-COTIZACIÓN: sistema que envía recordatorios y seguimientos a los leads no convertidos.",
+          "justificacion": "Aumenta la tasa de conversión al mantener el interés de los leads."
+        },
+        {
+          "servicio": "ANÁLISIS DE MERCADO AUTOMATIZADO: sistema que monitorea tendencias y necesidades del sector para ajustar la oferta de maquinaria.",
+          "justificacion": "Aporta datos valiosos para incrementar la efectividad de las campañas."
+        },
+        {
+          "servicio": "MEJORA DE SEO Y CONTENIDO: estrategia de contenidos que incluye la creación de un blog para atraer tráfico.",
+          "justificacion": "Incrementar la visibilidad en el mercado y atraer más clientes potenciales a través del contenido."
+        }
+      ],
+      "propuestas_creativas": [
+        "GESTIÓN DE CLIENTES: CRM adaptado a la gestión de arriendos y venta de maquinaria, optimiza el seguimiento y la atención a clientes.",
+        "REPORTES Y DASHBOARDS: generación de informes sobre desempeño de ventas y alquileres que permite tomar decisiones informadas.",
+        "OPTIMIZACIÓN DE MANTENIMIENTO: sistema que organiza y programa mantenimiento preventivo de maquinaria basado en horas de uso.",
+        "COTIZADOR INTELIGENTE: herramienta que genera cotizaciones automáticas y envía a clientes en tiempo real.",
+        "ANÁLISIS DE RENDIMIENTO DE ALQUILERES: sistema que evalúa el rendimiento y uso de la maquinaria alquilada, mejorando la flota.",
+        "SEGUIMIENTO DE TENDENCIAS DE MERCADO: plataforma que identifica las tendencias en la demanda de maquinaria en la región."
+      ],
+      "insights": [
+        "Los 52 empleados en un sector tradicional como maquinaria indican una posible falta de un equipo digital interno más robusto, lo que limita la capacidad de automatización.",
+        "La oferta en el sitio de múltiples sucursales y un enfoque en servicio técnico sugiere que la empresa está bien posicionada en su mercado pero podría beneficiarse de un mejor uso de tecnología para gestionar operaciones."
+      ],
+      "temperatura_mercado": "out-of-market",
+      "evidencia_temperatura": "Sin señal en los últimos 6 meses",
+      "costo_cambio_estimado": "medio",
+      "evidencia_costo_cambio": "El uso de WooCommerce sugiere que tienen un sistema que puede ser mejorado, aunque no hay un vendor obvio que impida el cambio.",
+      "estructura_decision": "Cynthia Ponce, Head of Marketing, probablemente tiene influencia significativa en decisiones de marketing, con posible solicitud de aprobación al dueño o a un director ejecutivo.",
+      "horas_recuperables_semana": {
+        "min": 5,
+        "max": 15,
+        "evidencia": "Las señales como la atención manual de cotizaciones y el uso de formularios sugieren procesos susceptibles de automatización."
+      },
+      "fit_aura": "alto",
+      "razon_fit": "La empresa Clemsa produce y comercializa efectivamente maquinaria pesada y presenta un potencial significativo para la automatización de procesos en atención y ventas."
+    },
+    "estimacion": {
+      "horas_min": 5.0,
+      "horas_max": 15.0,
+      "costo_hora": [
+        12,
+        20
+      ],
+      "valor_anual_min": 2900,
+      "valor_anual_max": 14400,
+      "precio_min": 300,
+      "precio_max": 2900,
+      "evidencia": "Las señales como la atención manual de cotizaciones y el uso de formularios sugieren procesos susceptibles de automatización.",
+      "supuestos": "costo hora USD 12-20 (Chile), 48 semanas/año, captura 10-20% del valor anual"
+    }
+  },
+  {
+    "id": "metrowan",
+    "empresa": "Grupo Metrowan",
+    "contacto": "Alvaro Valenzuela",
+    "cargo": "Head of Marketing",
+    "email": "alvaro@metrowan.cl",
+    "pais": "Chile",
+    "url": "https://metrowan.cl",
+    "score": 68,
+    "prioridad": "Media",
+    "producto": "Aura Consult",
+    "tag": "email",
+    "ficha": {
+      "resumen": "Grupo Metrowan ofrece soluciones tecnológicas B2B enfocados en conectividad, ciberseguridad y gestión de redes a más de 25,000 clientes en Chile y Latinoamérica.",
+      "sector": "telecomunicaciones",
+      "ciudad_pais": "Santiago, Chile",
+      "modelo_negocio": "B2B, venta directa",
+      "propuesta_valor": "Brindar soluciones tecnológicas personalizadas que faciliten la transformación digital y mejoren la eficiencia operativa de las empresas.",
+      "madurez_digital": {
+        "nivel": "Alta",
+        "razon": "Más de 13 años en el mercado con un enfoque en automatización y gestión digital."
+      },
+      "tiene_whatsapp": true,
+      "tiene_blog": true,
+      "tiene_ecommerce": false,
+      "tecnologias_detectadas": [
+        "WordPress",
+        "Google Tag Manager",
+        "Google Analytics",
+        "Facebook Pixel",
+        "Cloudflare"
+      ],
+      "senales_oportunidad": [
+        "Aunque ofrecen un portal de clientes, la automatización del proceso de agendamiento comercial en su sitio no se observa claramente.",
+        "El uso de múltiples canales de atención puede sugerir un proceso manual en la gestión de consultas, en vez de chatbots o respuestas automáticas."
+      ],
+      "brechas_competitivas": [
+        "Ausencia de agendamiento online directo para reuniones comerciales, lo que limita la accesibilidad inmediata."
+      ],
+      "angulos_personalizacion": [
+        {
+          "angulo": "Mencionan que tienen más de 25,000 clientes conectados, pero no hay actualizaciones recientes en el sitio sobre cómo están expandiendo su infraestructura.",
+          "evidencia": "Sección de 'Confían en nosotros' y mapa de factibilidad."
+        },
+        {
+          "angulo": "Ofrecen un boletín mensual, pero no se observa una segmentación de la lista para personalizar los envíos.",
+          "evidencia": "CTA del 'Nuestro Boletín Mensual'."
+        },
+        {
+          "angulo": "Hacen énfasis en asesoría personalizada, pero no detallan un proceso de onboarding para nuevos clientes.",
+          "evidencia": "Sección '¿Por qué elegir Metrowan?'."
+        },
+        {
+          "angulo": "El sitio menciona que el soporte es proactivo 24/7, pero no hay evidencia de herramientas de soporte automatizado disponibles.",
+          "evidencia": "Sección de 'Soporte Proactivo 24/7'."
+        }
+      ],
+      "servicios_aura_sugeridos": [
+        {
+          "servicio": "AGENTE DE CHAT AUTOMATIZADO: responde consultas frecuentes en tiempo real y dirige a los clientes al portal de servicios.",
+          "justificacion": "Mejoraría la eficiencia del servicio al cliente y liberaría al equipo humano de tareas repetitivas."
+        },
+        {
+          "servicio": "SISTEMA DE AGENDAMIENTO ONLINE: permite a los clientes programar reuniones con el equipo comercial de manera automática.",
+          "justificacion": "Facilitaría el proceso para los clientes y aumentaría la captación de oportunidades."
+        }
+      ],
+      "propuestas_creativas": [
+        "GESTIÓN DE CLIENTES: CRM personalizado que centraliza la atención mediante WhatsApp y correo electrónico, adaptado a cómo esta empresa vende.",
+        "REPORTES Y DASHBOARDS: generación automática de informes de rendimiento de servicios y atención al cliente, permitiendo a los directivos tomar decisiones estratégicas.",
+        "OPTIMIZACIÓN DEL BOLETÍN MENSUAL: plataforma que segmenta envíos y personaliza contenido para mejorar la tasa de apertura y conversión.",
+        "ANÁLISIS DE RETENCIÓN DE CLIENTES: sistema que mide la satisfacción de los clientes con los servicios de conectividad y ciberseguridad.",
+        "MONITOREO DE INFRAESTRUCTURA: sistema que supervisa el desempeño de la infraestructura de telecomunicaciones y genera alertas anticipadas.",
+        "PORTAL CLIENTES AUTOMATIZADO: plataforma donde los clientes pueden gestionar sus servicios, hacer solicitudes y obtener soporte sin intervención manual."
+      ],
+      "insights": [
+        "41 empleados en telecomunicaciones con más de 25,000 clientes sugiere una empresa bien establecida en el sector, pero también un alto potencial para la automatización de procesos que the permitan escalar su servicio.",
+        "La combinación de servicios gestionados y automatización mencionada indica una clara orientación hacia la eficiencia, pero la ausencia de un portal de autoservicio completo limita su capacidad para manejar el volumen actual de clientes."
+      ],
+      "temperatura_mercado": "sin evidencia",
+      "evidencia_temperatura": "Sin señal en los últimos 6 meses",
+      "costo_cambio_estimado": "medio",
+      "evidencia_costo_cambio": "Equipo identificado en el sitio, pero la presencia de recursos manuales sugiere que no están completamente digitalizados.",
+      "estructura_decision": "El contacto principal, Alvaro Valenzuela, probablemente tiene peso en la toma de decisiones, junto con otros miembros del equipo de marketing. Puede que el dueño también participe, pero no hay evidencia clara.",
+      "horas_recuperables_semana": {
+        "min": 4,
+        "max": 8,
+        "evidencia": "La atención al cliente a través de múltiples canales y la posibilidad de agendamiento manual sugieren procesos que podrían ser automatizados."
+      },
+      "fit_aura": "alto",
+      "razon_fit": "Grupo Metrowan tiene procesos claros que pueden beneficiarse de la automatización, con un enfoque B2B que se alinea bien con los servicios de Aura Studio."
+    },
+    "estimacion": {
+      "horas_min": 4.0,
+      "horas_max": 8.0,
+      "costo_hora": [
+        12,
+        20
+      ],
+      "valor_anual_min": 2300,
+      "valor_anual_max": 7700,
+      "precio_min": 200,
+      "precio_max": 1500,
+      "evidencia": "La atención al cliente a través de múltiples canales y la posibilidad de agendamiento manual sugieren procesos que podrían ser automatizados.",
+      "supuestos": "costo hora USD 12-20 (Chile), 48 semanas/año, captura 10-20% del valor anual"
+    }
+  }
+]
