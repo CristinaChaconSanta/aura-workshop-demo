@@ -12,18 +12,8 @@ Vos construís el resto en Cursor, con Groq (gratis).
 
 ## Cómo llegar a los archivos
 
-Hay **dos clones**. No uses el repo de producto de Aura (`aura-lead-intelligence`): ese es el sistema completo de Cristina.
-
-**1. Empezar de cero** — solo guía + corpus:
-
 ```
 git clone https://github.com/CristinaChaconSanta/aura-workshop.git
-```
-
-**2. Si no terminamos** — copia lista para ver y correr (no es todo el sistema):
-
-```
-git clone https://github.com/CristinaChaconSanta/aura-workshop-demo.git
 ```
 
 **Si no usás GitHub:** descargá el ZIP de Drive y en Cursor: **File → Open Folder**.
@@ -358,3 +348,15 @@ No es un curso de Google Cloud.
 No es “conectar todas las APIs”.  
 
 Es: **un cerebro prestado (psicología social) + Groq + tus datos + la cara que armes hoy.**
+
+---
+
+## Si no terminaste
+
+Quienes no llegaron al final tienen un repo con algunas características listas (no es el sistema completo):
+
+```
+git clone https://github.com/CristinaChaconSanta/aura-workshop-demo.git
+```
+
+https://github.com/CristinaChaconSanta/aura-workshop-demo
